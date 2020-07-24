@@ -3,7 +3,7 @@
 * Web page format, currently does not support Android and Apple mobile.
 ## Made with
 * html
-*JavaScript 
+* JavaScript 
 ## Tracking
-* **[Trello](https://trello.com/cs386ourproject)
+* ** [Trello](https://trello.com/cs386ourproject)
 * Slack
