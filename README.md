@@ -5,5 +5,5 @@
 * html
 * JavaScript 
 ## Tracking
-* ** [Trello](https://trello.com/cs386ourproject)
+* **[Trello](https://trello.com/cs386ourproject)**
 * Slack
